@@ -12,9 +12,7 @@
 # T registers:
 #	-t0 : size of the array and boundaries for loops 
 #
-#
-#
-#
+
 
 
 
